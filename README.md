@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,Selenium,JavaScript,Webdriverio,API,jenkins,Grafana Dashboard**
 
-- 📫 How to reach me **bonciyakuruvila@gmail.com**
+- 📫 How to reach me **kbonciya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
